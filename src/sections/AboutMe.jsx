@@ -19,7 +19,7 @@ const AboutMe = () => {
             </p>
             </div>
 
-            <img className='object-scale-down size-1/2 md:size-1/3' src='../../public/portait.jpg'/>
+            <img className='object-scale-down size-1/2 md:size-1/3' src='/portait.jpg'/>
         </div>
     </div>
 }
