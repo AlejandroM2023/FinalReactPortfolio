@@ -25,7 +25,7 @@ const Tech = () => {
     </div>
 
       <h2 className='head-text mt-12 '>Education</h2>
-      <div className='flex flex-row'>
+      <div className='flex flex-col items-center md:flex-row justify-center'>
         <Card school={'University of Texas at Austin'} edu={'Economics'} date={'2021-2023'} gpa={'2.5'}/>
         <Card school={'Austin Community College'} edu={'Computer Programming'} date={'2023-2024'} gpa={'3.529'}/>
         <Card school={'University of Texas at Austin'} edu={'Full Stack Bootcamp'} date={'2024-2024'} gpa={'N/A'}/>
